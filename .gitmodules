@@ -1,0 +1,6 @@
+[submodule "assets"]
+	path = assets
+	url = https://github.com/maonx/vimwiki-assets.git
+[submodule "t2"]
+	path = t2
+	url = https://github.com/zcfh/t2.git
